@@ -7,3 +7,4 @@
 ehthumbs.db
 Thumbs.db
 .env.local
+.env.production.local
